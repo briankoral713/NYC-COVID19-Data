@@ -1,5 +1,3 @@
-# MolonLabe
-
 NYC Covid-19 Data 
 
 Includes full data since the start of the Covid19 outbreak by total cases, daily cases, hospitalizations, deaths, broken down by age group.
